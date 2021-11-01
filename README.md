@@ -1,6 +1,5 @@
 # Hi there, I'm Nuria !👋
----
-Software Engineer based in New York City. 
+### Software Engineer based in New York City. 
 <!--
 **NuriaLuz/NuriaLuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
