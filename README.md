@@ -1,5 +1,6 @@
-# Hi there, I'm Nuria !👋
-### Software Engineer based in New York City. 
+## Hi there! My name is Nuria Rodriguez Rios 👋
+Software Engineer located in New York City specialized in full stack development.  
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/nrodriguezrios/) or [Twitter](https://twitter.com/luzriax)
 <!--
 **NuriaLuz/NuriaLuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
